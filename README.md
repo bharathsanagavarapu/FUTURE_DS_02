@@ -1,7 +1,8 @@
 # FUTURE_DS_02
-##Data Science & Analytics Internship – Future Interns
-##📊TASk-2 Customer Retention & Churn Analysis
-📌 Project Overview
+## Data Science & Analytics Internship – Future Interns
+## 📊TASk-2 Customer Retention & Churn Analysis
+
+## 📌 Project Overview
 Customer churn directly impacts revenue and long-term growth in subscription-based businesses.
 
 This project analyzes customer subscription data to understand:
